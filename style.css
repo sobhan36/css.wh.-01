@@ -1,0 +1,39 @@
+
+ 
+  
+ h1 span{
+  color: red;
+  
+ }
+}
+p{
+  display: block;
+  text-align: center;
+  font-size: 30px;
+line-height: 45px;
+text-align: justify;
+}
+
+a{
+  text-decoration: none;
+  display: block;
+  width: 80px;
+  height: 20px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: red;
+  color: white;
+  font-size: 15px;
+}
+img{
+  width: 500px;
+}
+.part1{
+  color: aqua;
+  display: blocl;
+  text-align: justify;
+}
+.part2{
+  display: block;
+  text-align: justify;
+}
